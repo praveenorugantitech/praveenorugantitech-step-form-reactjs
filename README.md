@@ -9,6 +9,6 @@
 
 
 
-[Live Demo](https://praveenorugantitech-step-form.firebaseapp.com)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-step-form-reactjs/)
 
 
