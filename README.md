@@ -1,4 +1,4 @@
-# Step Form developed using React JS
+# Step Form developed using React JS and Material UI
 
  Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI
 
